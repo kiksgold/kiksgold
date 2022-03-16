@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiksgold
 - 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning about css
+- 🌱 I’m currently learning about javascript
 - 💞️ I’m looking to collaborate on any project that would aid my learning and help me develop relevant skills
 - 📫 How to reach me kiksgold@gmail.com 
 
